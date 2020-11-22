@@ -2,7 +2,7 @@
 
 This ontology describes the astronomical environment (outer space environment) in general terms.
 
-It aims for a global, neutral, and accurate model of the space environment. 
+It aims for a global, neutral, and accurate model of the space environment, expressing key concepts shared across astronomy communities.
 
 The vision is for an ontology that accounts for the fact that humanity may become spare-faring from other planets. 
 
