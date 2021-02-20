@@ -15,5 +15,10 @@ This is part of the authors [space ontology work](https://purl.org/space-ontolog
 - This and related works by the author have been ideas for a PhD topic since 2011. If you are a professor with a PhD student vacancy and are interested in this, please contact rrovetto[at]terpalum.umd.edu
 
 
+## Warranty
+No warranty. Presented "AS IS". Author and copyright holder is not liable.
+All content, work and products are subject to revision. No claims to completeness. 
+
 ## Copyright
-(c) 2018-2020, Robert John Rovetto. All rights reserved.
+© 2018-2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
