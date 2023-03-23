@@ -1,10 +1,15 @@
 # Astronomical Environment Ontology (AEO)
 This ontology describes the astronomical environment (outer space environment) in general terms.
-It aims for a global, neutral, and accurate model of the space environment, expressing key concepts shared across astronomy communities.
-The vision is for an ontology that accounts for the fact that humanity may become spare-faring from other planets. 
 
 ## Description
 _See also the Ontology Requirements Specification Document (purchase link coming soon)._
+
+### Scope
+The domain of astronomy is most relevant, and the ontology aims to represent various outer space environments, i.e. exo-atmospheric environments.  
+
+### Purpose
+* It aims for a global, neutral, and accurate model of the space environment, expressing key concepts shared across astronomy communities. The vision is for an ontology that accounts for the fact that humanity may become spare-faring from other planets. 
+
 
 ### Architecture
 A self-contained module, usable by itself, but also part of the author's wider [space domain knowledge modeling](https://purl.org/space-ontology) suite of ontologies and other knowledge organization systems.
